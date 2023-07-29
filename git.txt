@@ -1,0 +1,31 @@
+open command prompt
+
+cd\
+go to thr folder where you stored SpringBoot project ( cd <path of root dir of ur project> )
+
+
+
+
+spring boot
+
+git clone <repository_url>
+git config user.name "Your GitHub Username"
+git config user.email "your-email@example.com"
+git add .
+git commit -m "Your commit message"
+git remote add origin <repository_url>
+git push -u origin master
+
+
+
+
+
+Angular
+git clone <repository_url>
+ng build --prod
+git config user.name "Your GitHub Username"
+git config user.email "your-email@example.com"
+git add .
+git commit -m "Your commit message"
+git remote add origin <repository_url>
+git push -u origin master
